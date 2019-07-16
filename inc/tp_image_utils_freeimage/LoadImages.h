@@ -1,5 +1,5 @@
-#ifndef tp_image_utils__freeimage_LoadImages_h
-#define tp_image_utils__freeimage_LoadImages_h
+#ifndef tp_image_utils_freeimage_LoadImages_h
+#define tp_image_utils_freeimage_LoadImages_h
 
 #include "tp_image_utils_freeimage/Globals.h"
 
